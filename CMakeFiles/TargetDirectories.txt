@@ -1,0 +1,3 @@
+/Users/admin/projects/myVulkan/CMakeFiles/myVulkan.dir
+/Users/admin/projects/myVulkan/CMakeFiles/edit_cache.dir
+/Users/admin/projects/myVulkan/CMakeFiles/rebuild_cache.dir
